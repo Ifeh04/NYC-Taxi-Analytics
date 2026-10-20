@@ -1,0 +1,17 @@
+# Ignore data files
+*.parquet
+*.csv
+
+# Ignore virtual environment
+mage_env/
+venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Power BI local files
+*.pbix.user
+
+nyc_taxi_project/
+nyc-taxi-pipeline
